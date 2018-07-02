@@ -5,3 +5,5 @@ Hello Dev Branch
 Test Version Conflict local
 Test version conflict Remote
 
+Hello member B
+
